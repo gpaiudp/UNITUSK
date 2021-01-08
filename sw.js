@@ -4,10 +4,10 @@ const CACHE_NAME = 'v1_pwa_app_cache',
   urlsToCache = [
     './',
     'index.html',
-    'css/style.css',
-    'js/script.js',
-    'img/mainlogo.png',
-    'img/favicon.png'
+    './style.css',
+    './script.js',
+    'img/vv21.jpg',
+    'img/vv16x16.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
